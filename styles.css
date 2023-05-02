@@ -21,9 +21,13 @@ p {
 .box {
     background-color: #2E4F4F;
     padding: 50px;
+    
 }
 
-
+.vectorbookimage {
+    width: 180px;
+    float: right;
+}
 
 .menu {
     background-color: #0E8388;
