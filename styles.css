@@ -18,6 +18,14 @@ p {
     color: #0E8388;
 }
 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+
 .box {
     background-color: #2E4F4F;
     padding: 50px;
@@ -36,5 +44,6 @@ p {
 
 .box1 {
     background-color: #0E8388;
-    padding: 60px;
+    padding: 30px;
+    text-align: center;
 }
